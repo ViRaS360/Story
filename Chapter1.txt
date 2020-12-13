@@ -1,0 +1,1 @@
+To open a File using git bash type: start file_name . To install git into it : git init.
