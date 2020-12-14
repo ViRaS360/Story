@@ -1,0 +1,5 @@
+ls -a displays all the hidden files in a directory
+git add file_name : adds the file to the staging area to start tracking changes in it.
+git status : displays the status of the staging area.
+git commit -m "commit message" : creates a new save point and the message gives info about the changes done. (to be written in present tense)
+git log : displays info about when what and by whom the commit was made.
