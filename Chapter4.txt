@@ -1,0 +1,4 @@
+To create a remote repository on github:
+create a repository on github [Public and no README file]
+In Command Terminal : 1> git remote add origin (Paste the link given on github)
+2> git push -u origin master
