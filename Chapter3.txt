@@ -1,1 +1,1 @@
-So this is the method.
+So this is the method. To add the multiple files into the staging area : git add . ("." adds all the files)
